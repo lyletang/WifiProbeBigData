@@ -1,0 +1,93 @@
+.master{
+  position:relative;
+  left:35%;
+  top:3%;
+}
+
+.master_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:16%;
+  top:18%;
+}
+
+.slave1{
+  position:relative;
+  left:-35%;
+  top:33%;
+}
+
+.slave1_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:-55%;
+  top:48%;
+}
+
+.slave2{
+  position:relative;
+  left:35%;
+  top:13%;
+}
+
+.slave2_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:16%;
+  top:28%;
+}
+
+.slave3{
+  position:relative;
+  left:30%;
+  top:13%;
+}
+
+.slave3_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:10%;
+  top:28%;
+}
+
+.slave4{
+  position:relative;
+  left:3%;
+  top:23%;
+}
+
+.slave4_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:-17%;
+  top:38%;
+}
+.slave5{
+  position:relative;
+  left:-3%;
+  top:23%;
+}
+.slave5_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:-22%;
+  top:38%;
+}
+.slave6{
+  position:relative;
+  left:68%;
+  top:3%;
+}
+.slave6_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:50%;
+  top:18%;
+}

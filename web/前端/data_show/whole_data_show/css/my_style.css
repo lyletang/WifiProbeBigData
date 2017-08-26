@@ -1,0 +1,382 @@
+.font-style{
+    font-family:Georgia;
+}
+
+.datatime_input_style{
+    margin-top:13px;
+}
+
+.float_right{
+    float:right;
+}
+
+ .check_input{
+  
+  font-weight: 300;
+  font-size: 16px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 40px;
+  height: 30px;
+  padding: 0 25px;
+  margin: 0;
+  display: inline-block;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  background-color:#D0D0D0;
+}
+
+.add-on{
+   background:white;
+}
+
+.background_color{
+    background-color:#F0F0F0;
+}
+
+
+.datashow_background{
+   clear:both;
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.traffic_and_the_amount_of_store_hour_data_show{
+   clear:both;
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;
+   position:relative;
+   top:30px;
+   left:-28%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.into_the_store_rate_hour_data_show{
+   clear:both;
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;
+   position:relative;
+   top:-220px;
+   left:25%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.traffic_and_the_amount_of_store_and_into_the_store_rate_hour_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:30px;
+   left:-2%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.new_and_old_customers_hour_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:70px;
+   left:-28%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.the_resident_time_hour_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-180px;
+   left:25%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.bounce_rate_and_deep_rate_hour_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-130px;
+   left:-2%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+
+.traffic_and_the_amount_of_store_day_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:30px;
+   left:-28%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.into_the_store_rate_day_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-220px;
+   left:25%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.traffic_and_the_amount_of_store_and_into_the_store_rate_day_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:30px;
+   left:-2%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.new_and_old_customers_day_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:70px;
+   left:-28%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.the_resident_time_day_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-180px;
+   left:25%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.bounce_rate_and_deep_rate_day_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-130px;
+   left:-3%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.traffic_and_the_amount_of_store_week_data_show{
+   clear:both;
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;
+   position:relative;
+   top:30px;
+   left:-28%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.into_the_store_rate_week_data_show{
+   clear:both;
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;
+   position:relative;
+   top:-220px;
+   left:25%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.traffic_and_the_amount_of_store_and_into_the_store_rate_week_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:30px;
+   left:-2%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.visiting_cycle_week_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top: 70px;
+   left:-28%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.new_and_old_customers_week_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-180px;
+   left:25%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.customer_active_week_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-140px;
+   left:-28%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.the_resident_time_week_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-390px;
+   left:25%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.bounce_rate_and_deep_rate_week_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-350px;
+   left:-3%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.traffic_and_the_amount_of_store_month_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:30px;
+   left:-28%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.into_the_store_rate_month_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-220px;
+   left:25%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.traffic_and_the_amount_of_store_and_into_the_store_rate_month_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:30px;
+   left:-2%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.visiting_cycle_month_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:70px;
+   left:-28%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.new_and_old_customers_month_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-180px;
+   left:25%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.customer_active_month_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-140px;
+   left:-28%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.the_resident_time_month_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-390px;
+   left:25%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.bounce_rate_and_deep_rate_month_data_show{
+   clear:both;
+   /*
+   border:1px solid #ADADAD;
+   box-shadow:3px 3px 20px #ADADAD;*/
+   position:relative;
+   top:-350px;
+   left:-3%;
+   margin-left:auto;
+   margin-right:auto;
+}
+.table_style{
+   margin-left:auto;
+   margin-right:auto;
+}

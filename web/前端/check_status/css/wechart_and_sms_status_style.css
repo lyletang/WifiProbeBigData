@@ -1,0 +1,23 @@
+.sms-style{
+  position:relative;
+  left:13%;
+  top:25%;
+  text-align:center;
+}
+
+.sms_label{
+  color: #999999;
+  font-size:1.3em;
+}
+
+.wechart-style{
+  position:relative;
+  left:57%;
+  top:-35%;
+  text-align:center;
+}
+
+.wechart_label{
+  color: #999999;
+  font-size:1.3em;
+}

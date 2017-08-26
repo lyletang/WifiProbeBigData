@@ -1,0 +1,297 @@
+.datatime_input_style{
+    margin-top:13px;
+}
+
+.float_right{
+    float:right;
+}
+
+ .check_input{
+  
+  font-weight: 300;
+  font-size: 16px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 40px;
+  height: 30px;
+  padding: 0 25px;
+  margin: 0;
+  display: inline-block;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  background-color:#D0D0D0;
+}
+
+.add-on{
+   background:white;
+}
+
+.background_color{
+    background-color:#F0F0F0;
+}
+
+.datashow_background{
+   clear:both;
+   border:1px solid #ADADAD;
+   margin-top:150px;
+   box-shadow:3px 3px 20px #ADADAD;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+ .boot{
+  clear:both;
+  font-weight: 300;
+  font-size: 16px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 40px;
+  height: 10%;
+  padding: 0 3%;
+  margin: 0;
+  display: inline-block;
+  appearance: none;
+  cursor: pointer;
+  background-color:#009900;
+  position:relative;
+  top:10px;
+  left:30%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+ .shutdown{
+  clear:both;
+  font-weight: 300;
+  font-size: 16px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 40px;
+  height: 10%;
+  padding: 0 3%;
+  margin: 0;
+  display: inline-block;
+  appearance: none;
+  cursor: pointer;
+  background-color:#990000;
+  position:relative;
+  top:10px;
+  left:35%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.reboot{
+  clear:both;
+  font-weight: 300;
+  font-size: 16px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 40px;
+  height: 10%;
+  padding: 0 3%;
+  margin: 0;
+  display: inline-block;
+  appearance: none;
+  cursor: pointer;
+  background-color:#66FF66;
+  position:relative;
+  top:10px;
+  left:40%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.auto_boot_and_shutdown_checkbox{
+  position:relative;
+  left:60%;
+  top:20px;
+  width:20%;
+}
+
+.auto_boot_and_shutdown_label{
+  color: #999999;
+  font-size:150%;
+  position:relative;
+  left:40%;
+  top:45px;
+  width:30%;
+}
+.auto_boot_label{
+  color: #999999;
+  font-size:150%;
+  position:relative;
+  left:25%;
+  top:60px;
+  width:30%;
+}
+.boot_time{
+  position:relative;
+  left:50%;
+  top:35px;
+}
+
+.auto_shutdown_label{
+  color: #999999;
+  font-size:150%;
+  position:relative;
+  left:25%;
+  top:45px;
+  width:30%;
+}
+
+.shutdown_time{
+  position:relative;
+  left:50%;
+  top:20px;
+}
+.set_ok{
+  clear:both;
+  font-weight: 300;
+  font-size: 16px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 40px;
+  height: 10%;
+  padding: 0 3%;
+  margin: 0;
+  display: inline-block;
+  appearance: none;
+  cursor: pointer;
+  background-color:#D0D0D0;
+  position:relative;
+  top:60px;
+  left:30%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.cancel_boot{
+  position:relative;
+  top:30px;
+  left:50%;
+}
+.cancel_shutdown{
+  position:relative;
+  top:20px;
+  left:50%;
+}
+/*
+.left_top_flow{
+  clear:left;
+  margin-top:10px;
+  margin-left:3%;
+  float:left;
+}
+
+.right_top_flow{
+  clear:right;
+  margin-top:10px;
+  margin-right:3%;
+  float:right;
+}
+
+.left_top{
+  margin-top:10px;
+  margin-left:3%;
+}
+
+.right_top{
+    margin-top:10px;
+	margin-right:60%;
+}
+
+.center{
+   clear:both;
+   position:relative;
+   top:35%;
+   left:2%;
+}
+
+.left_bottom_flow{
+  clear:both;
+  position:relative;
+  top:38%;
+  left:-33%;
+  margin-bottom:10px;
+}
+
+.right_bottom_flow{
+  clear:both;
+  position:relative;
+  top:6%;
+  left:67%;
+  margin-bottom:10px;
+  margin-right:3%;
+}
+
+.one_position{
+  position:relative;
+  left:3%;
+  top:3%;
+}
+
+.one_label{
+  color: #999999;
+  font-size:150%;
+  position:relative;
+  left:-18%;
+  top:25%;
+}
+
+.two_position{
+  position:relative;
+  left:-5%;
+  top:3%;
+}
+
+.two_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:-25%;
+  top:25%;
+}
+
+.three_position{
+  position:relative;
+  left:67%;
+  top:-27%;
+}
+
+.three_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:48%;
+  top:-5%;
+}
+
+.four_position{
+  position:relative;
+  left:-37%;
+  top:20%;
+}
+
+.four_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:-58%;
+  top:43%;
+}
+
+.five_position{
+  position:relative;
+  left:35%;
+  top:-10%;
+}
+
+.five_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:15%;
+  top:13%;
+}*/

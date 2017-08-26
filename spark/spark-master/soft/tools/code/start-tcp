@@ -1,0 +1,2 @@
+#!/bin/bash
+pssh -h $PSSH_HOME/hosts/tcp-host.txt 'nohup python server.py &' #open tcp-server

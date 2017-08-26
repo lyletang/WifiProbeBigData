@@ -1,0 +1,93 @@
+.sms{
+  position:relative;
+  left:3%;
+  top:20%;
+}
+
+.sms_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:-20%;
+  top:45%;
+}
+
+.wechart{
+  position:relative;
+  left:10%;
+  top:20%;
+}
+
+.wechart_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:-15%;
+  top:45%;
+}
+
+.slave2{
+  position:relative;
+  left:35%;
+  top:13%;
+}
+
+.slave2_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:16%;
+  top:28%;
+}
+
+.slave3{
+  position:relative;
+  left:30%;
+  top:13%;
+}
+
+.slave3_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:10%;
+  top:28%;
+}
+
+.slave4{
+  position:relative;
+  left:3%;
+  top:23%;
+}
+
+.slave4_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:-17%;
+  top:38%;
+}
+.slave5{
+  position:relative;
+  left:-3%;
+  top:23%;
+}
+.slave5_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:-22%;
+  top:38%;
+}
+.slave6{
+  position:relative;
+  left:68%;
+  top:3%;
+}
+.slave6_label{
+  color: #999999;
+  font-size:1.5em;
+  position:relative;
+  left:48%;
+  top:18%;
+}
