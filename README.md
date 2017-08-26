@@ -1,7 +1,7 @@
 # Victors
 
 <div align="center">
-  <img src="http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/Victors.png"><br><br>
+  <img src="https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/Victors.png"><br><br>
 </div>
 
 -----------------
@@ -34,7 +34,7 @@
 
 ### 实物拍摄
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/pi.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/pi.png)
 
 
 ## “Victors' WIFI”之短信服务
@@ -47,7 +47,7 @@
 
 ### UI展示
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/sms.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/sms.png)
 
 ### 短信服务程序目录相关说明
 
@@ -76,8 +76,8 @@
 
 ### UI展示
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/wechat-control.png)
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/wechat-result.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/wechat-control.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/wechat-result.png)
 
 ### 微信服务程序目录相关说明
 
@@ -106,21 +106,21 @@
 
 ### UI展示
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/index.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/index.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/mulu.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/mulu.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/shishi.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/shishi.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/lixian.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/lixian.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/tanzhen.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/tanzhen.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/fuwu.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/fuwu.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/kongzhi.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/kongzhi.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/map.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/map.png)
 
 ### web服务程序目录相关说明
 
