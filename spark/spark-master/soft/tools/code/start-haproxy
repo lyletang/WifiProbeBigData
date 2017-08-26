@@ -1,2 +1,0 @@
-#!/bin/bash
-pssh -H 192.168.1.11 -t 10 'sudo /usr/local/haproxy/sbin/haproxy -f /usr/local/haproxy/conf/haproxy.cfg'

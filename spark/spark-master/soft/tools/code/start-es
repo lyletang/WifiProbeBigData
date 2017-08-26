@@ -1,6 +1,0 @@
-#!/bin/bash
-#----------------start elasticsearch--------------
-pssh -h $PSSH_HOME/hosts/es-hosts.txt -t 1000 'source /etc/profile;/home/pi/es/bin/elasticsearch -d'
-#----------------start kibana---------------------
-#pssh -H 192.168.1.100 'source /etc/profile;/home/pi/ELK/kibana/bin/kibana -d'
-#nohup  /home/pi/ELK/kibana/bin/kibana & 

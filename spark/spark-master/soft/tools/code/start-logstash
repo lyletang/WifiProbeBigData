@@ -1,2 +1,0 @@
-#!/bin/bash
-pssh -H 192.168.1.17 -t 5 'source /etc/profile;/home/pi/logstash/bin/logstash -f /home/pi/logstash/config/logstash.conf'

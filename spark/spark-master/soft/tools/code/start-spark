@@ -1,3 +1,0 @@
-#!/bin/bash
-#----------------start spark server---------------
-sh /home/pi/spark/sbin/start-all.sh

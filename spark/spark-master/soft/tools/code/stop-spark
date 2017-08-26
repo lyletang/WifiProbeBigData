@@ -1,3 +1,0 @@
-#!/bin/bash
-#----------------------stop spark server-----------------------
-/home/pi/spark/sbin/stop-all.sh

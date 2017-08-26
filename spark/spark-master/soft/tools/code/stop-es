@@ -1,6 +1,0 @@
-#!/bin/bash
-#----------------------stop elasticsearch---------------------
-pnuke -h $PSSH_HOME/hosts/es-hosts.txt java
-
-
-
