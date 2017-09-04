@@ -19,15 +19,18 @@
 
 ### 硬件实现
 
-
 - 主要硬件参数
-    1. 50台基于ARM7架构的树莓派
-    2. 50口千兆交换机一台
+    1. 50台基于ARM7架构的树莓派集群
+    2. SanDisk 32G SD卡若干
+    2. 48口千兆交换机一台
     3. Arduino Mega 2560单片机一块
     4. SIM900芯片一块
     5. WIFI探针设备若干
-    6. 电源等
-
+    6. ESP8285 WIFI芯片
+    7. UART GPS模块
+    8. USB-TTL
+    9. 开关电源等
+ 
 ### 软件环境
 
 - 搭载系统：Raspbian Jessie（Based on Debian Jessie）
