@@ -45,11 +45,6 @@
 >- 开发语言：Python
 >- 开发工具：Vim 7.3
 
-### 实物拍摄
-
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/myprobe1.JPG)
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/myprobe2.JPG)
-
 ### 自制WIFI探针程序目录相关说明
 
 程序目录中`github-images-folder`文件夹与自制WIFI探针程序无关，里面的图片为Github项目README页面的说明。
@@ -81,6 +76,12 @@
 - Lon --- 所在地理经度
 - Lat --- 所在地理纬度
 
+### 实物拍摄
+
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/myprobe1.JPG)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/myprobe2.JPG)
+
+
 ## “Victors' WIFI”之短信服务
 
 >- 项目全称：基于WIFI探针的商业大数据分析技术---“Victors' WIFI”
@@ -88,10 +89,6 @@
 >- 程序目录：Victors-source/sms
 >- 开发语言：Python，Arduino
 >- 开发工具：Vim 7.3, Arduino 1.6.9
-
-### UI展示
-
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/sms.png)
 
 ### 短信服务程序目录相关说明
 
@@ -109,6 +106,9 @@
 - 发送短信内容为`关机` 或 `shutdown` ，关闭探针设备
 - 发送短信内容为 `重启` 或 `reboot` ，重启探针设备
 
+### UI展示
+
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/sms.png)
 
 ## “Victors' WIFI”之微信服务
 
@@ -117,11 +117,6 @@
 >- 程序目录：Victors-source/wechat
 >- 开发语言：Python
 >- 开发工具：Vim 7.3
-
-### UI展示
-
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/wechat-control.png)
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/wechat-result.png)
 
 ### 微信服务程序目录相关说明
 
@@ -140,6 +135,11 @@
 - 选择 `客流查询` 的菜单栏子选项进行店铺客流信息的多维度数据查询
 - 发送 `查询时/查询天/查询周/查询月` 的关键字进行店铺客流信息的多维度查询
 
+### UI展示
+
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/wechat-control.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/wechat-result.png)
+
 ## “Victors' WIFI”之移动APP
 
 >- 项目全称：基于WIFI探针的商业大数据分析技术---“Victors' WIFI”
@@ -147,11 +147,6 @@
 >- 程序目录：Victors-source/app
 >- 开发语言：Java，html，css，Javascrip
 >- 开发工具：MyEclipse2015
-
-### UI展示
-
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/app2.png)
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/app3.png)
 
 ### 移动APP程序目录相关说明
 
@@ -163,6 +158,11 @@
 - 便捷监控服务节点工作状态
 - 在线控制探针设备
 
+### UI展示
+
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/app2.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/app3.png)
+
 ## “Victors' WIFI”之WEB服务
 
 >- 项目全称：基于WIFI探针的商业大数据分析技术---“Victors' WIFI”
@@ -170,18 +170,6 @@
 >- 程序目录：Victors-source/web
 >- 开发语言：Java，html，css，Javascrip
 >- 开发工具：MyEclipse2015
-
-### UI展示
-
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/index.png)
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/mulu.png)
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/shishi2.png)
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/jinkuang.png)
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/compare.png)
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/data.png)
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/probe_config.png)
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/probe_control.png)
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/monitor.png)
 
 ### web服务程序目录相关说明
 
@@ -208,6 +196,16 @@
 - 点击 `远程控制` ，远程在线配置及控制探针设备
 - 点击 `设备定位` ，多种类地图实时定位探针设备
 
+### UI展示
+
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/index.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/mulu.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/shishi2.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/jinkuang.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/compare.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/data.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/probe_control.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/monitor.png)
 
 ## 项目客户端地址
 
