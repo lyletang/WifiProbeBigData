@@ -81,7 +81,6 @@
 
 ### 实物拍摄
 
-![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/myprobe1.JPG)
 ![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/myprobe2.JPG)
 
 
