@@ -37,7 +37,7 @@
 
 ![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/pi.png)
 
-## “”之自制WIFI探针
+## “Victors' WIFI”之自制WIFI探针
 
 >- 项目全称：基于WIFI探针的商业大数据分析技术---“Victors‘ WIFI”
 >- 项目人员：汤佳辉 赵鹏越 郭欣光
