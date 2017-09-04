@@ -1,7 +1,7 @@
 # Victors
 
 <div align="center">
-  <img src="http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/Victors.png"><br><br>
+  <img src="https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/Victors.png"><br><br>
 </div>
 
 -----------------
@@ -35,7 +35,7 @@
 
 ### 实物拍摄
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/pi.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/pi.png)
 
 ## “”之自制WIFI探针
 
@@ -47,9 +47,8 @@
 
 ### 实物拍摄
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/sms.png)
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/sms.png)
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/sms.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/myprobe1.JPG)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/myprobe2.JPG)
 
 ### 自制WIFI探针程序目录相关说明
 
@@ -92,7 +91,7 @@
 
 ### UI展示
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/sms.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/sms.png)
 
 ### 短信服务程序目录相关说明
 
@@ -121,8 +120,8 @@
 
 ### UI展示
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/wechat-control.png)
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/wechat-result.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/wechat-control.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/wechat-result.png)
 
 ### 微信服务程序目录相关说明
 
@@ -151,11 +150,11 @@
 
 ### UI展示
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/index.png)
+![image](hhttps://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/app1.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/mulu.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/app2.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/shishi.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/app3.png)
 
 ### 移动APP程序目录相关说明
 
@@ -163,7 +162,9 @@
 
 ### 移动APP程序功能相关说明
 
-- 
+- 随时随地查询店铺详细信息
+- 便捷监控服务节点工作状态
+- 在线控制探针设备
 
 ## “Victors' WIFI”之WEB服务
 
@@ -175,21 +176,23 @@
 
 ### UI展示
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/index.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/index.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/mulu.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/mulu.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/shishi.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/shishi2.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/lixian.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/jinkuang.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/tanzhen.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/compare.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/fuwu.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/data.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/kongzhi.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/probe_config.png)
 
-![image](http://42.123.127.93:10080/tangjiahui1014/Victors-readme/raw/c6a29c47ad94b6d29f484b48569fbf7a4fe69560/github-images-folder/map.png)
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/probe_control.png)
+
+![image](https://raw.githubusercontent.com/tangjiahui1014/WifiProbeBigData/master/github-images-folder/monitor.png)
 
 ### web服务程序目录相关说明
 
@@ -200,6 +203,7 @@
 - 店铺客流信息的实时数据动态展示
 - 精准，高效，全面的离线查询
 - 支持历史查询，环比及多维度比较
+- 支持多店铺对比
 - WIFI探针设备的实时状态监控
 - 服务器设备的实时状态监控
 - 远程在线控制探针设备，支持开关机，重启及设定自动开关机
