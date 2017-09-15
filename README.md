@@ -34,7 +34,7 @@
 ### 软件环境
 
 - 搭载系统：Raspbian Jessie（Based on Debian Jessie）
-- version-Linux内核：Linux 4.9
+- version-Linux内核：Linux 4.4
 
 ### 实物拍摄
 
